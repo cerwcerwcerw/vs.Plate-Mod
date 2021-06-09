@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="platePortrait.png">
+
+	<SubTexture name="plate Portrait neutral 10000" x="0" y="0" width="400" height="500" frameX="-5" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait neutral 10001" x="0" y="0" width="400" height="500" frameX="-5" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait angry 10000" x="400" y="0" width="400" height="500" frameX="-15" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait angry 10001" x="400" y="0" width="400" height="500" frameX="-15" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait happy 10000" x="800" y="0" width="400" height="500" frameX="-5" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait happy 10001" x="800" y="0" width="400" height="500" frameX="-5" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait bruh 10000" x="1200" y="0" width="400" height="500" frameX="-7" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait bruh 10001" x="1200" y="0" width="400" height="500" frameX="-7" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait shock 10000" x="1600" y="0" width="400" height="500"/>
+	<SubTexture name="plate Portrait shock 10001" x="1600" y="0" width="400" height="500"/>
+	<SubTexture name="plate Portrait confusion 10000" x="2000" y="0" width="400" height="500" frameX="-15" frameY="0" frameWidth="400" frameHeight="500"/>
+	<SubTexture name="plate Portrait confusion 10001" x="2000" y="0" width="400" height="500" frameX="-15" frameY="0" frameWidth="400" frameHeight="500"/>
+	
+</TextureAtlas>
