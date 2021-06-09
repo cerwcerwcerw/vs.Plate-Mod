@@ -1,10 +1,12 @@
 
 Credits:
+
 .........................
 
 vs.Plate Mod
 
 [Cerw](https://twitter.com/cerwcerw) - Character, Art, Coding, Charting
+
 [YingYang48](https://twitter.com/YingWasHere) - Music, Playtesting
 
 KadeeEngine
@@ -14,13 +16,16 @@ KadeeEngine
 FNF
 
 [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
+
 [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
+
 [Kawaisprite](https://twitter.com/kawaisprite) - Musician
 
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
 
 Features in Version 0.1.0
+
 .........................
 
 ->New Character, 'Plate' a hotheaded magician.
@@ -30,9 +35,10 @@ Features in Version 0.1.0
 ->A cutscene that playes before 'Mana' in story mode 
 ->Altered menu art
 
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
 Planned Features:
+
 .........................
 
 This will hopefully turn into a mod with a full week soon. With 3-4 Songs
