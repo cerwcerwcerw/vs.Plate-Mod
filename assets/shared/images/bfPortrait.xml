@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bfPortrait.png">
-
-	<SubTexture name="bf Portrait neutral 10000" x="0" y="0" width="488" height="308"/>
-	<SubTexture name="bf Portrait neutral 10001" x="0" y="0" width="488" height="308"/>
-
-	
-</TextureAtlas>
