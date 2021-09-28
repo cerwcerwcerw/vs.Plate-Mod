@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPortrait.png">
+
+	<SubTexture name="bf Portrait neutral 10000" x="0" y="0" width="550" height="400"/>
+	<SubTexture name="bf Portrait neutral 10001" x="0" y="0" width="550" height="400"/>
+
+	<SubTexture name="bf Portrait mouth 10000" x="0" y="400" width="550" height="400"/>
+	<SubTexture name="bf Portrait mouth 10001" x="0" y="400" width="550" height="400"/>
+	
+	<SubTexture name="bf Portrait angry 10000" x="0" y="800" width="550" height="400"/>
+	<SubTexture name="bf Portrait angry 10001" x="0" y="800" width="550" height="400"/>
+	
+	<SubTexture name="gf Portrait mouth 10000" x="550" y="0" width="550" height="400"/>
+	<SubTexture name="gf Portrait mouth 10001" x="550" y="0" width="550" height="400"/>
+
+	<SubTexture name="gf Portrait neutral 10000" x="550" y="400" width="550" height="400"/>
+	<SubTexture name="gf Portrait neutral 10001" x="550" y="400" width="550" height="400"/>
+	
+	<SubTexture name="gf Portrait angry 10000" x="550" y="800" width="550" height="400"/>
+	<SubTexture name="gf Portrait angry 10001" x="550" y="800" width="550" height="400"/>
+	
+</TextureAtlas>

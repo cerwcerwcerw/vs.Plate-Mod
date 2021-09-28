@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="magiccircle.png">
+
+	<SubTexture name="magiccircle0000" x="0" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0001" x="2800" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0002" x="2800" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0003" x="5600" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0004" x="5600" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0005" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0006" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0007" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0008" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0009" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0010" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0011" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0012" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0013" x="8400" y="0" width="2800" height="2800"/>
+	<SubTexture name="magiccircle0014" x="8400" y="0" width="2800" height="2800"/>
+	
+</TextureAtlas>
