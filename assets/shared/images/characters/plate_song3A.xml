@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plate.png">
+	<!-- Created by CerwCerw -->
+	<SubTexture name="plate Sing Note DOWN0000" x="3500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0001" x="3500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0002" x="4000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0003" x="4000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0004" x="4500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0005" x="4500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0006" x="5000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0007" x="5000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note DOWN0008" x="5000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	
+	<SubTexture name="plate Sing Note UP0000" x="5500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0001" x="5500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0002" x="6000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0003" x="6000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0004" x="0" y="800" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0005" x="0" y="800" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0006" x="500" y="800" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0007" x="500" y="800" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note UP0008" x="500" y="800" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	
+	<SubTexture name="plate Sing Note LEFT0000" x="1000" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0001" x="1000" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0002" x="1550" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0003" x="1550" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0004" x="2100" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0005" x="2100" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0006" x="2650" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0007" x="2650" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note LEFT0008" x="2650" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	
+	<SubTexture name="plate Sing Note RIGHT0000" x="3200" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0001" x="3200" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0002" x="3750" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0003" x="3750" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0004" x="4300" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0005" x="4300" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0006" x="4850" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0007" x="4850" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate Sing Note RIGHT0008" x="4850" y="800" width="550" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	
+	<SubTexture name="plate idle dance0000" x="0" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0001" x="0" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0002" x="500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0003" x="500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0004" x="1000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0005" x="1000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0006" x="1500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0007" x="1500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0008" x="2000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0009" x="2000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0010" x="2500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0011" x="2500" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0012" x="3000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0013" x="3000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate idle dance0014" x="3000" y="0" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	
+	<SubTexture name="plate cutsceneA0000" x="0" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0001" x="0" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0002" x="500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0003" x="500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0004" x="1000" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0005" x="1000" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0006" x="1500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0007" x="1500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0008" x="2000" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0009" x="2000" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0010" x="2500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0011" x="2500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0012" x="3000" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0013" x="3000" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0014" x="3500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="plate cutsceneA0015" x="3500" y="1600" width="500" height="800" frameX="15" frameY="0" frameWidth="470" frameHeight="735"/>
+
+
+</TextureAtlas>
